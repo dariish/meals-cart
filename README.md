@@ -5,10 +5,10 @@ A simple add/remove items to the cart.
 
 ## Features
 
-⚡️ One page Layout**
-⚡️ Fully responsive**
-⚡️ All basic react hooks practiced\_\_
-⚡️ Creation of a react Portal to use Modal UI\_\_
+⚡️ One page Layout<br />
+⚡️ Fully responsive<br />
+⚡️ All basic react hooks practiced<br />
+⚡️ Creation of a react Portal to use Modal UI<br />
 ⚡️ With firebase API I created, its making https fetchs
 
 ## How to use
